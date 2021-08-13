@@ -1,0 +1,12 @@
+.student-filter {
+    padding: 20px 0 0 55px;
+}
+
+.student-filter select {
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    background-color: #508CC3;
+    color: white;
+    font-size: 16px;
+}
